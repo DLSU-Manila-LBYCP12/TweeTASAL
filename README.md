@@ -3,8 +3,7 @@ DATASAL Project. Road to 4.0!
 Created by: Jeremy Chan, Rafael Talavera, and Fae Serrano
 
 ##Introduction
--TweeTasal was created by a group of young engineers, who wants to incorporate the use of social media in education. Today, social media has revolutionized the world and the lifestyle of individuals.
-The main objective of this project is to provide the function of a social media such as posting beautiful images, awesome videos, and bright ideas for students to share among peers.
+-TweeTasal was created by a group of young engineers, who wants to incorporate the use of social media in education. Today, social media has revolutionized the world and the lifestyle of individuals. The main objective of this project is to provide the function of a social media such as posting beautiful images, awesome videos, and bright ideas for students to share among peers.
 
 ##Significance
 -It allows the students to know more about their fellow colleagues.
