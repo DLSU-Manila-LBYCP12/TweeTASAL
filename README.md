@@ -28,4 +28,5 @@ TweeTasal was created by a group of young engineers, who wants to incorporate th
 6. Graph (Followers)
   
 ##Division of Labor
-TEAMWORK 💕
+💕
+![Images](http://www.teamworkandleadership.com/wp-content/uploads/2015/02/teamwork-story-teamwork-makes-the-dreamwork.jpg)
