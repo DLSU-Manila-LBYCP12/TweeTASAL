@@ -1,6 +1,7 @@
 # TweeTASAL
 DATASAL Project. Road to 4.0!
 Created by: Jeremy Chan, Rafael Talavera, and Fae Serrano
+![Screenshot](1.png)
 
 ##Introduction
 TweeTasal was created by a group of young engineers, who wants to incorporate the use of social media in education. Today, social media has revolutionized the world and the lifestyle of individuals. The main objective of this project is to provide the function of a social media such as posting beautiful images, awesome videos, and bright ideas for students to share among peers.
@@ -13,6 +14,9 @@ TweeTasal was created by a group of young engineers, who wants to incorporate th
 - It exposes the creators to different data structures available in the market today.
 
 ##Data Structure Application
+
+![Images](http://cdn1.tnwcdn.com/wp-content/blogs.dir/1/files/2013/11/social-network-links.jpg)
+
 1. Stack (Depth First Search)
 2. Queue (Breadth First Search)
 3. Priority Queue (Planner)
@@ -21,4 +25,4 @@ TweeTasal was created by a group of young engineers, who wants to incorporate th
 6. Graph (Followers)
   
 ##Division of Labor
-TEAMWORK <3
+TEAMWORK 💕
