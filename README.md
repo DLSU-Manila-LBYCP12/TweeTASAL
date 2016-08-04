@@ -19,8 +19,6 @@ TweeTasal was created by a group of young engineers, who wants to incorporate th
 4. List (Posts)
 5. Tree (Minimum Spanning Tree)
 6. Graph (Followers)
-  -Dijkstra's Algorithm (shortest path)
-  -Adjacency Matrix
   
 ##Division of Labor
 - Fae Serrano - Priority Queue, Queue
