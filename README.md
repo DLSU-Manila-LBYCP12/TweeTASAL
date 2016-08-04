@@ -27,6 +27,5 @@ TweeTasal was created by a group of young engineers, who wants to incorporate th
 5. Tree (Minimum Spanning Tree)
 6. Graph (Followers)
   
-##Division of Labor
-💕
+##Division of Labor 💕
 ![Images](http://www.teamworkandleadership.com/wp-content/uploads/2015/02/teamwork-story-teamwork-makes-the-dreamwork.jpg)
