@@ -21,7 +21,4 @@ TweeTasal was created by a group of young engineers, who wants to incorporate th
 6. Graph (Followers)
   
 ##Division of Labor
-- Fae Serrano - Priority Queue, Queue
-- Rafael Talavera - Graph, Tree, Database
-- Jeremy Chan - Stack, List, Interface
-
+TEAMWORK <3
